@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/n2HZuHqU44qn5JRLQUXbEgCbGR2RK9bEDFG+zwDUJisNUda4c06MLEkAihmJGLCwwf1ctCeqMIhZ6X3pDl7YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karin\\RiderProjects\\PollyLibrary\\PollyLibrary\\PollyLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\karin\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.0\\microsoft.bcl.timeprovider.8.0.0.nupkg.sha512",
+    "C:\\Users\\karin\\.nuget\\packages\\polly\\8.3.1\\polly.8.3.1.nupkg.sha512",
+    "C:\\Users\\karin\\.nuget\\packages\\polly.core\\8.3.1\\polly.core.8.3.1.nupkg.sha512",
+    "C:\\Users\\karin\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
